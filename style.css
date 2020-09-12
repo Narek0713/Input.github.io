@@ -1,0 +1,22 @@
+
+.div{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    float: left;
+    margin-top:27px;
+
+}
+input{
+    position: fixed;
+}
+
+button{
+    position: fixed;
+    left: 185px;
+}
